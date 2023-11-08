@@ -19,7 +19,7 @@ namespace prac_1_cs
 
         private void button_input_Click(object sender, EventArgs e)
         {
-            string value = textBox_input.Text;
+            string value = textBox_input.Text; //1
         }
     }
 }
